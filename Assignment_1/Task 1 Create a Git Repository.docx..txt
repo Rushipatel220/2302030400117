@@ -1,0 +1,91 @@
+Task 1: Create a Git Repository
+Create a Repository:
+
+Go to GitHub.
+
+Click on New or Create a new repository.
+
+Name your repository with your enrollment number.
+
+Choose Public or Private.
+
+Click Create repository.
+
+Create Folders:
+
+Open Git Bash or your terminal.
+
+Clone your repository: git clone https://github.com/your-username/your-enrollment-number.git.
+
+Navigate to your repository directory: cd your-enrollment-number.
+
+Create folders: mkdir Assignment_1 Assignment_2.
+
+Commit the changes:
+
+bash
+git add .
+git commit -m "Added Assignment_1 and Assignment_2 folders"
+git push origin main
+Prepare a Word File:
+
+Open a new Word document.
+
+Write down each step you followed to create the repository and folders.
+
+Save the file as Task_1_Steps.docx.
+
+Upload Assignments:
+
+Place your assignments in the respective folders (Assignment_1 and Assignment_2).
+
+Commit and push the changes:
+
+bash
+git add .
+git commit -m "Uploaded assignments"
+git push origin main
+Share Repository Link:
+
+Copy the link to your repository.
+
+Submit the link in the Google form provided.
+
+Task 2: Prepare a Website Prototype in Figma
+Create a Figma Account:
+
+Go to Figma.
+
+Sign up for a free account.
+
+Create a New Project:
+
+Click on New File.
+
+Name your project.
+
+Design Screens:
+
+Design at least 8-10 screens as required.
+
+Ensure the design is consistent and user-friendly.
+
+Export Screens:
+
+Select the screens you want to export.
+
+Click on Export.
+
+Save the images in the format you need (e.g., PNG, JPEG).
+
+Upload Screen Designs:
+
+Place the exported screen designs in the Assignment_1 folder of your Git repository.
+
+Commit and push the changes:
+
+bash
+git add .
+git commit -m "Uploaded screen designs for Task 2"
+git push origin main
+I hope this helps! If you have any questions or need further assistance, feel free to ask. Happy coding and designing! 💻🎨
